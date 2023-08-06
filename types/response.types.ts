@@ -8,6 +8,8 @@ export interface GeneralResponse<T> {
 
 export interface MetaData {
     totalData: number;
+    totalDistrict?: number;
+    totalSubDistrict?: number;
     lastSyncYear: number;
     currentBase: BaseDataReference;
     baseReferenceAvailable: BaseDataReference[];

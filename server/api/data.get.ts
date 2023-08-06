@@ -1,8 +1,9 @@
+
 import { JSONPath } from 'jsonpath-plus'
 import { data, metadata } from '@/data/district.json';
 import { BaseDataReference, GeneralResponse, LevelData } from '@/types/response.types';
 
-export default defineEventHandler((event) => {
+export default defineEventHandler(async (event) => {
   const query = getQuery(event);
   const base = query.base as BaseDataReference ?? 'BPS';
   const propertyPathRef = base == 'BPS' ? 'province_code_bps' : 'province_code_dagri';
@@ -19,11 +20,25 @@ export default defineEventHandler((event) => {
       baseReferenceAvailable: metadata.baseReferenceAvailable as BaseDataReference[],
       lastSyncYear: metadata.latestUpdate,
       totalData: metadata.total,
-      totalDistrict: result.length && result[0].districts.length,
+      totalDistrict: result[0].districts.length,
       info: 'Direkomendasikan menggunakan base data BPS',
       level: metadata.level as LevelData
     }
   }
+
+  response.data[0].districts.forEach((d) => {
+    fetch(`https://sig.bps.go.id/rest-bridging/getwilayah?level=kecamatan&parent=${d.kode_bps}`)
+      .then(res => res.json())
+      .then(data => {
+
+        const finalData = {
+          district_code_bps: d.kode_bps,
+          district_code_dagri: d.kode_dagri,
+          data: data
+        };
+        console.log(finalData);
+      })
+  })
 
   return response;
 })

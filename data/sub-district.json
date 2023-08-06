@@ -1,0 +1,1879 @@
+{
+    "data" : [
+        {
+            "district_code_bps": "1102",
+            "district_code_dagri": "11.10",
+            "sub_district": [
+                {
+                    "kode_bps": "1102010",
+                    "nama_bps": "PULAU BANYAK",
+                    "kode_dagri": "11.10.01",
+                    "nama_dagri": "PULAU BANYAK"
+                },
+                {
+                    "kode_bps": "1102011",
+                    "nama_bps": "PULAU BANYAK BARAT",
+                    "kode_dagri": "11.10.16",
+                    "nama_dagri": "PULAU BANYAK BARAT"
+                },
+                {
+                    "kode_bps": "1102020",
+                    "nama_bps": "SINGKIL",
+                    "kode_dagri": "11.10.04",
+                    "nama_dagri": "SINGKIL"
+                },
+                {
+                    "kode_bps": "1102021",
+                    "nama_bps": "SINGKIL UTARA",
+                    "kode_dagri": "11.10.10",
+                    "nama_dagri": "SINGKIL UTARA"
+                },
+                {
+                    "kode_bps": "1102022",
+                    "nama_bps": "KUALA BARU",
+                    "kode_dagri": "11.10.14",
+                    "nama_dagri": "KUALA BARU"
+                },
+                {
+                    "kode_bps": "1102030",
+                    "nama_bps": "SIMPANG KANAN",
+                    "kode_dagri": "11.10.02",
+                    "nama_dagri": "SIMPANG KANAN"
+                },
+                {
+                    "kode_bps": "1102031",
+                    "nama_bps": "GUNUNG MERIAH",
+                    "kode_dagri": "11.10.06",
+                    "nama_dagri": "GUNUNG MERIAH"
+                },
+                {
+                    "kode_bps": "1102032",
+                    "nama_bps": "DANAU PARIS",
+                    "kode_dagri": "11.10.11",
+                    "nama_dagri": "DANAU PARIS"
+                },
+                {
+                    "kode_bps": "1102033",
+                    "nama_bps": "SURO",
+                    "kode_dagri": "11.10.12",
+                    "nama_dagri": "SURO MAKMUR"
+                },
+                {
+                    "kode_bps": "1102042",
+                    "nama_bps": "SINGKOHOR",
+                    "kode_dagri": "11.10.13",
+                    "nama_dagri": "SINGKOHOR"
+                },
+                {
+                    "kode_bps": "1102043",
+                    "nama_bps": "KOTA BAHARU",
+                    "kode_dagri": "11.10.09",
+                    "nama_dagri": "KOTA BAHARU"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1112",
+            "district_code_dagri": "11.12",
+            "sub_district": [
+                {
+                    "kode_bps": "1112010",
+                    "nama_bps": "MANGGENG",
+                    "kode_dagri": "11.12.03",
+                    "nama_dagri": "MANGGENG"
+                },
+                {
+                    "kode_bps": "1112011",
+                    "nama_bps": "LEMBAH SABIL",
+                    "kode_dagri": "11.12.09",
+                    "nama_dagri": "LEMBAH SABIL"
+                },
+                {
+                    "kode_bps": "1112020",
+                    "nama_bps": "TANGAN-TANGAN",
+                    "kode_dagri": "11.12.02",
+                    "nama_dagri": "TANGAN-TANGAN"
+                },
+                {
+                    "kode_bps": "1112021",
+                    "nama_bps": "SETIA",
+                    "kode_dagri": "11.12.07",
+                    "nama_dagri": "SETIA"
+                },
+                {
+                    "kode_bps": "1112030",
+                    "nama_bps": "BLANG PIDIE",
+                    "kode_dagri": "11.12.01",
+                    "nama_dagri": "BLANG PIDIE"
+                },
+                {
+                    "kode_bps": "1112031",
+                    "nama_bps": "JEUMPA",
+                    "kode_dagri": "11.12.08",
+                    "nama_dagri": "JEUMPA"
+                },
+                {
+                    "kode_bps": "1112040",
+                    "nama_bps": "SUSOH",
+                    "kode_dagri": "11.12.04",
+                    "nama_dagri": "SUSOH"
+                },
+                {
+                    "kode_bps": "1112050",
+                    "nama_bps": "KUALA BATEE",
+                    "kode_dagri": "11.12.05",
+                    "nama_dagri": "KUALA BATEE"
+                },
+                {
+                    "kode_bps": "1112060",
+                    "nama_bps": "BABAH ROT",
+                    "kode_dagri": "11.12.06",
+                    "nama_dagri": "BABAH ROT"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1108",
+            "district_code_dagri": "11.06",
+            "sub_district": [
+                {
+                    "kode_bps": "1108010",
+                    "nama_bps": "LHOONG",
+                    "kode_dagri": "11.06.01",
+                    "nama_dagri": "LHOONG"
+                },
+                {
+                    "kode_bps": "1108020",
+                    "nama_bps": "LHOKNGA",
+                    "kode_dagri": "11.06.02",
+                    "nama_dagri": "LHOKNGA"
+                },
+                {
+                    "kode_bps": "1108021",
+                    "nama_bps": "LEUPUNG",
+                    "kode_dagri": "11.06.22",
+                    "nama_dagri": "LEUPUNG"
+                },
+                {
+                    "kode_bps": "1108030",
+                    "nama_bps": "INDRAPURI",
+                    "kode_dagri": "11.06.03",
+                    "nama_dagri": "INDRAPURI"
+                },
+                {
+                    "kode_bps": "1108031",
+                    "nama_bps": "KUTA COT GLIE",
+                    "kode_dagri": "11.06.16",
+                    "nama_dagri": "KOTA COT GLIE"
+                },
+                {
+                    "kode_bps": "1108040",
+                    "nama_bps": "SEULIMEUM",
+                    "kode_dagri": "11.06.04",
+                    "nama_dagri": "SEULIMEUM"
+                },
+                {
+                    "kode_bps": "1108041",
+                    "nama_bps": "KOTA JANTHO",
+                    "kode_dagri": "11.06.15",
+                    "nama_dagri": "KOTA JANTHO"
+                },
+                {
+                    "kode_bps": "1108042",
+                    "nama_bps": "LEMBAH SEULAWAH",
+                    "kode_dagri": "11.06.14",
+                    "nama_dagri": "LEMBAH SEULAWAH"
+                },
+                {
+                    "kode_bps": "1108050",
+                    "nama_bps": "MESJID RAYA",
+                    "kode_dagri": "11.06.09",
+                    "nama_dagri": "MESJID RAYA"
+                },
+                {
+                    "kode_bps": "1108060",
+                    "nama_bps": "DARUSSALAM",
+                    "kode_dagri": "11.06.12",
+                    "nama_dagri": "DARUSSALAM"
+                },
+                {
+                    "kode_bps": "1108061",
+                    "nama_bps": "BAITUSSALAM",
+                    "kode_dagri": "11.06.20",
+                    "nama_dagri": "BAITUSSALAM"
+                },
+                {
+                    "kode_bps": "1108070",
+                    "nama_bps": "KUTA BARO",
+                    "kode_dagri": "11.06.11",
+                    "nama_dagri": "KUTA BARO"
+                },
+                {
+                    "kode_bps": "1108080",
+                    "nama_bps": "MONTASIK",
+                    "kode_dagri": "11.06.05",
+                    "nama_dagri": "MONTASIK"
+                },
+                {
+                    "kode_bps": "1108081",
+                    "nama_bps": "BLANG BINTANG",
+                    "kode_dagri": "11.06.23",
+                    "nama_dagri": "BLANG BINTANG"
+                },
+                {
+                    "kode_bps": "1108090",
+                    "nama_bps": "INGIN JAYA",
+                    "kode_dagri": "11.06.10",
+                    "nama_dagri": "INGIN JAYA"
+                },
+                {
+                    "kode_bps": "1108091",
+                    "nama_bps": "KRUENG BARONA JAYA",
+                    "kode_dagri": "11.06.21",
+                    "nama_dagri": "KRUENG BARONA JAYA"
+                },
+                {
+                    "kode_bps": "1108100",
+                    "nama_bps": "SUKA MAKMUR",
+                    "kode_dagri": "11.06.06",
+                    "nama_dagri": "SUKAMAKMUR"
+                },
+                {
+                    "kode_bps": "1108101",
+                    "nama_bps": "KUTA MALAKA",
+                    "kode_dagri": "11.06.17",
+                    "nama_dagri": "KUTA MALAKA"
+                },
+                {
+                    "kode_bps": "1108102",
+                    "nama_bps": "SIMPANG TIGA",
+                    "kode_dagri": "11.06.18",
+                    "nama_dagri": "SIMPANG TIGA"
+                },
+                {
+                    "kode_bps": "1108110",
+                    "nama_bps": "DARUL IMARAH",
+                    "kode_dagri": "11.06.07",
+                    "nama_dagri": "DARUL IMARAH"
+                },
+                {
+                    "kode_bps": "1108111",
+                    "nama_bps": "DARUL KAMAL",
+                    "kode_dagri": "11.06.19",
+                    "nama_dagri": "DARUL KAMAL"
+                },
+                {
+                    "kode_bps": "1108120",
+                    "nama_bps": "PEUKAN BADA",
+                    "kode_dagri": "11.06.08",
+                    "nama_dagri": "PEUKAN BADA"
+                },
+                {
+                    "kode_bps": "1108130",
+                    "nama_bps": "PULO ACEH",
+                    "kode_dagri": "11.06.13",
+                    "nama_dagri": "PULO ACEH"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1101",
+            "district_code_dagri": "11.09",
+            "sub_district": [
+                {
+                    "kode_bps": "1101010",
+                    "nama_bps": "TEUPAH SELATAN",
+                    "kode_dagri": "11.09.07",
+                    "nama_dagri": "TEUPAH SELATAN"
+                },
+                {
+                    "kode_bps": "1101020",
+                    "nama_bps": "SIMEULUE TIMUR",
+                    "kode_dagri": "11.09.04",
+                    "nama_dagri": "SIMEULUE TIMUR"
+                },
+                {
+                    "kode_bps": "1101021",
+                    "nama_bps": "TEUPAH BARAT",
+                    "kode_dagri": "11.09.03",
+                    "nama_dagri": "TEUPAH BARAT"
+                },
+                {
+                    "kode_bps": "1101022",
+                    "nama_bps": "TEUPAH TENGAH",
+                    "kode_dagri": "11.09.09",
+                    "nama_dagri": "TEUPAH TENGAH"
+                },
+                {
+                    "kode_bps": "1101030",
+                    "nama_bps": "SIMEULUE TENGAH",
+                    "kode_dagri": "11.09.01",
+                    "nama_dagri": "SIMEULUE TENGAH"
+                },
+                {
+                    "kode_bps": "1101031",
+                    "nama_bps": "TELUK DALAM",
+                    "kode_dagri": "11.09.05",
+                    "nama_dagri": "TELUK DALAM"
+                },
+                {
+                    "kode_bps": "1101032",
+                    "nama_bps": "SIMEULUE CUT",
+                    "kode_dagri": "11.09.10",
+                    "nama_dagri": "SIMEULUE CUT"
+                },
+                {
+                    "kode_bps": "1101040",
+                    "nama_bps": "SALANG",
+                    "kode_dagri": "11.09.02",
+                    "nama_dagri": "SALANG"
+                },
+                {
+                    "kode_bps": "1101050",
+                    "nama_bps": "SIMEULUE BARAT",
+                    "kode_dagri": "11.09.06",
+                    "nama_dagri": "SIMEULUE BARAT"
+                },
+                {
+                    "kode_bps": "1101051",
+                    "nama_bps": "ALAFAN",
+                    "kode_dagri": "11.09.08",
+                    "nama_dagri": "ALAPAN"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1106",
+            "district_code_dagri": "11.04",
+            "sub_district": [
+                {
+                    "kode_bps": "1106010",
+                    "nama_bps": "LINGE",
+                    "kode_dagri": "11.04.01",
+                    "nama_dagri": "LINGE"
+                },
+                {
+                    "kode_bps": "1106011",
+                    "nama_bps": "ATU LINTANG",
+                    "kode_dagri": "11.04.18",
+                    "nama_dagri": "ATU LINTANG"
+                },
+                {
+                    "kode_bps": "1106012",
+                    "nama_bps": "JAGONG JEGET",
+                    "kode_dagri": "11.04.19",
+                    "nama_dagri": "JAGONG JEGET"
+                },
+                {
+                    "kode_bps": "1106020",
+                    "nama_bps": "BINTANG",
+                    "kode_dagri": "11.04.08",
+                    "nama_dagri": "BINTANG"
+                },
+                {
+                    "kode_bps": "1106031",
+                    "nama_bps": "LUT TAWAR",
+                    "kode_dagri": "11.04.17",
+                    "nama_dagri": "LAUT TAWAR"
+                },
+                {
+                    "kode_bps": "1106032",
+                    "nama_bps": "KEBAYAKAN",
+                    "kode_dagri": "11.04.11",
+                    "nama_dagri": "KEBAYAKAN"
+                },
+                {
+                    "kode_bps": "1106040",
+                    "nama_bps": "PEGASING",
+                    "kode_dagri": "11.04.07",
+                    "nama_dagri": "PEGASING"
+                },
+                {
+                    "kode_bps": "1106041",
+                    "nama_bps": "BIES",
+                    "kode_dagri": "11.04.20",
+                    "nama_dagri": "BIES"
+                },
+                {
+                    "kode_bps": "1106050",
+                    "nama_bps": "BEBESEN",
+                    "kode_dagri": "11.04.03",
+                    "nama_dagri": "BEBESEN"
+                },
+                {
+                    "kode_bps": "1106051",
+                    "nama_bps": "KUTE PANANG",
+                    "kode_dagri": "11.04.12",
+                    "nama_dagri": "KUTE PANANG"
+                },
+                {
+                    "kode_bps": "1106060",
+                    "nama_bps": "SILIH NARA",
+                    "kode_dagri": "11.04.02",
+                    "nama_dagri": "SILIH NARA"
+                },
+                {
+                    "kode_bps": "1106061",
+                    "nama_bps": "KETOL",
+                    "kode_dagri": "11.04.10",
+                    "nama_dagri": "KETOL"
+                },
+                {
+                    "kode_bps": "1106062",
+                    "nama_bps": "CELALA",
+                    "kode_dagri": "11.04.13",
+                    "nama_dagri": "CELALA"
+                },
+                {
+                    "kode_bps": "1106063",
+                    "nama_bps": "RUSIP ANTARA",
+                    "kode_dagri": "11.04.21",
+                    "nama_dagri": "RUSIP ANTARA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1113",
+            "district_code_dagri": "11.13",
+            "sub_district": [
+                {
+                    "kode_bps": "1113010",
+                    "nama_bps": "KUTA PANJANG",
+                    "kode_dagri": "11.13.02",
+                    "nama_dagri": "KUTAPANJANG"
+                },
+                {
+                    "kode_bps": "1113011",
+                    "nama_bps": "BLANG JERANGO",
+                    "kode_dagri": "11.13.09",
+                    "nama_dagri": "BLANGJERANGO"
+                },
+                {
+                    "kode_bps": "1113020",
+                    "nama_bps": "BLANGKEJEREN",
+                    "kode_dagri": "11.13.01",
+                    "nama_dagri": "BLANGKEJEREN"
+                },
+                {
+                    "kode_bps": "1113021",
+                    "nama_bps": "PUTRI BETUNG",
+                    "kode_dagri": "11.13.07",
+                    "nama_dagri": "PUTERI BETUNG"
+                },
+                {
+                    "kode_bps": "1113023",
+                    "nama_bps": "BLANG PEGAYON",
+                    "kode_dagri": "11.13.06",
+                    "nama_dagri": "BLANGPEGAYON"
+                },
+                {
+                    "kode_bps": "1113030",
+                    "nama_bps": "PINING",
+                    "kode_dagri": "11.13.05",
+                    "nama_dagri": "PINING"
+                },
+                {
+                    "kode_bps": "1113040",
+                    "nama_bps": "RIKIT GAIB",
+                    "kode_dagri": "11.13.03",
+                    "nama_dagri": "RIKIT GAIB"
+                },
+                {
+                    "kode_bps": "1113041",
+                    "nama_bps": "PANTAN CUACA",
+                    "kode_dagri": "11.13.11",
+                    "nama_dagri": "PANTAN CUACA"
+                },
+                {
+                    "kode_bps": "1113050",
+                    "nama_bps": "TERANGUN",
+                    "kode_dagri": "11.13.04",
+                    "nama_dagri": "TERANGUN"
+                },
+                {
+                    "kode_bps": "1113051",
+                    "nama_bps": "TRIPE JAYA",
+                    "kode_dagri": "11.13.10",
+                    "nama_dagri": "TERIPE JAYA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1116",
+            "district_code_dagri": "11.14",
+            "sub_district": [
+                {
+                    "kode_bps": "1116010",
+                    "nama_bps": "TEUNOM",
+                    "kode_dagri": "11.14.01",
+                    "nama_dagri": "TEUNOM"
+                },
+                {
+                    "kode_bps": "1116011",
+                    "nama_bps": "PASIE RAYA",
+                    "kode_dagri": "11.14.09",
+                    "nama_dagri": "PASIE RAYA"
+                },
+                {
+                    "kode_bps": "1116020",
+                    "nama_bps": "PANGA",
+                    "kode_dagri": "11.14.06",
+                    "nama_dagri": "PANGA"
+                },
+                {
+                    "kode_bps": "1116030",
+                    "nama_bps": "KRUENG SABEE",
+                    "kode_dagri": "11.14.02",
+                    "nama_dagri": "KRUENG SABEE"
+                },
+                {
+                    "kode_bps": "1116040",
+                    "nama_bps": "SETIA BAKTI",
+                    "kode_dagri": "11.14.03",
+                    "nama_dagri": "SETIA BHAKTI"
+                },
+                {
+                    "kode_bps": "1116050",
+                    "nama_bps": "SAMPOINIET",
+                    "kode_dagri": "11.14.04",
+                    "nama_dagri": "SAMPOINIET"
+                },
+                {
+                    "kode_bps": "1116051",
+                    "nama_bps": "DARUL HIKMAH",
+                    "kode_dagri": "11.14.08",
+                    "nama_dagri": "DARUL HIKMAH"
+                },
+                {
+                    "kode_bps": "1116060",
+                    "nama_bps": "JAYA",
+                    "kode_dagri": "11.14.05",
+                    "nama_dagri": "JAYA"
+                },
+                {
+                    "kode_bps": "1116061",
+                    "nama_bps": "INDRA JAYA",
+                    "kode_dagri": "11.14.07",
+                    "nama_dagri": "INDRA JAYA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1118",
+            "district_code_dagri": "11.18",
+            "sub_district": [
+                {
+                    "kode_bps": "1118010",
+                    "nama_bps": "MEUREUDU",
+                    "kode_dagri": "11.18.01",
+                    "nama_dagri": "MEUREUDU"
+                },
+                {
+                    "kode_bps": "1118020",
+                    "nama_bps": "MEURAH DUA",
+                    "kode_dagri": "11.18.05",
+                    "nama_dagri": "MEURAH DUA"
+                },
+                {
+                    "kode_bps": "1118030",
+                    "nama_bps": "BANDAR DUA",
+                    "kode_dagri": "11.18.04",
+                    "nama_dagri": "BANDAR DUA"
+                },
+                {
+                    "kode_bps": "1118040",
+                    "nama_bps": "JANGKA BUYA",
+                    "kode_dagri": "11.18.03",
+                    "nama_dagri": "JANGKA BUAYA"
+                },
+                {
+                    "kode_bps": "1118050",
+                    "nama_bps": "ULIM",
+                    "kode_dagri": "11.18.02",
+                    "nama_dagri": "ULIM"
+                },
+                {
+                    "kode_bps": "1118060",
+                    "nama_bps": "TRIENGGADENG",
+                    "kode_dagri": "11.18.08",
+                    "nama_dagri": "TRIENGGADENG"
+                },
+                {
+                    "kode_bps": "1118070",
+                    "nama_bps": "PANTERAJA",
+                    "kode_dagri": "11.18.07",
+                    "nama_dagri": "PANTERAJA"
+                },
+                {
+                    "kode_bps": "1118080",
+                    "nama_bps": "BANDAR BARU",
+                    "kode_dagri": "11.18.06",
+                    "nama_dagri": "BANDAR BARU"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1103",
+            "district_code_dagri": "11.01",
+            "sub_district": [
+                {
+                    "kode_bps": "1103010",
+                    "nama_bps": "TRUMON",
+                    "kode_dagri": "11.01.09",
+                    "nama_dagri": "TRUMON"
+                },
+                {
+                    "kode_bps": "1103011",
+                    "nama_bps": "TRUMON TIMUR",
+                    "kode_dagri": "11.01.16",
+                    "nama_dagri": "TRUMON TIMUR"
+                },
+                {
+                    "kode_bps": "1103012",
+                    "nama_bps": "TRUMON TENGAH",
+                    "kode_dagri": "11.01.18",
+                    "nama_dagri": "TRUMON TENGAH"
+                },
+                {
+                    "kode_bps": "1103020",
+                    "nama_bps": "BAKONGAN",
+                    "kode_dagri": "11.01.01",
+                    "nama_dagri": "BAKONGAN"
+                },
+                {
+                    "kode_bps": "1103021",
+                    "nama_bps": "BAKONGAN TIMUR",
+                    "kode_dagri": "11.01.15",
+                    "nama_dagri": "BAKONGAN TIMUR"
+                },
+                {
+                    "kode_bps": "1103022",
+                    "nama_bps": "KOTA BAHAGIA",
+                    "kode_dagri": "11.01.17",
+                    "nama_dagri": "KOTA BAHAGIA"
+                },
+                {
+                    "kode_bps": "1103030",
+                    "nama_bps": "KLUET SELATAN",
+                    "kode_dagri": "11.01.03",
+                    "nama_dagri": "KLUET SELATAN"
+                },
+                {
+                    "kode_bps": "1103031",
+                    "nama_bps": "KLUET TIMUR",
+                    "kode_dagri": "11.01.14",
+                    "nama_dagri": "KLUET TIMUR"
+                },
+                {
+                    "kode_bps": "1103040",
+                    "nama_bps": "KLUET UTARA",
+                    "kode_dagri": "11.01.02",
+                    "nama_dagri": "KLUET UTARA"
+                },
+                {
+                    "kode_bps": "1103041",
+                    "nama_bps": "PASIE RAJA",
+                    "kode_dagri": "11.01.10",
+                    "nama_dagri": "PASI RAJA"
+                },
+                {
+                    "kode_bps": "1103042",
+                    "nama_bps": "KLUET TENGAH",
+                    "kode_dagri": "11.01.13",
+                    "nama_dagri": "KLUET TENGAH"
+                },
+                {
+                    "kode_bps": "1103050",
+                    "nama_bps": "TAPAK TUAN",
+                    "kode_dagri": "11.01.08",
+                    "nama_dagri": "TAPAKTUAN"
+                },
+                {
+                    "kode_bps": "1103060",
+                    "nama_bps": "SAMA DUA",
+                    "kode_dagri": "11.01.06",
+                    "nama_dagri": "SAMADUA"
+                },
+                {
+                    "kode_bps": "1103070",
+                    "nama_bps": "SAWANG",
+                    "kode_dagri": "11.01.07",
+                    "nama_dagri": "SAWANG"
+                },
+                {
+                    "kode_bps": "1103080",
+                    "nama_bps": "MEUKEK",
+                    "kode_dagri": "11.01.05",
+                    "nama_dagri": "MEUKEK"
+                },
+                {
+                    "kode_bps": "1103090",
+                    "nama_bps": "LABUHAN HAJI",
+                    "kode_dagri": "11.01.04",
+                    "nama_dagri": "LABUHAN HAJI"
+                },
+                {
+                    "kode_bps": "1103091",
+                    "nama_bps": "LABUHAN HAJI TIMUR",
+                    "kode_dagri": "11.01.11",
+                    "nama_dagri": "LABUHAN HAJI TIMUR"
+                },
+                {
+                    "kode_bps": "1103092",
+                    "nama_bps": "LABUHAN HAJI BARAT",
+                    "kode_dagri": "11.01.12",
+                    "nama_dagri": "LABUHAN HAJI BARAT"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1114",
+            "district_code_dagri": "11.16",
+            "sub_district": [
+                {
+                    "kode_bps": "1114010",
+                    "nama_bps": "TAMIANG HULU",
+                    "kode_dagri": "11.16.07",
+                    "nama_dagri": "TAMIANG HULU"
+                },
+                {
+                    "kode_bps": "1114011",
+                    "nama_bps": "BANDAR PUSAKA",
+                    "kode_dagri": "11.16.10",
+                    "nama_dagri": "BANDAR PUSAKA"
+                },
+                {
+                    "kode_bps": "1114020",
+                    "nama_bps": "KEJURUAN MUDA",
+                    "kode_dagri": "11.16.06",
+                    "nama_dagri": "KEJURUAN MUDA"
+                },
+                {
+                    "kode_bps": "1114021",
+                    "nama_bps": "TENGGULUN",
+                    "kode_dagri": "11.16.11",
+                    "nama_dagri": "TENGGULUN"
+                },
+                {
+                    "kode_bps": "1114030",
+                    "nama_bps": "RANTAU",
+                    "kode_dagri": "11.16.08",
+                    "nama_dagri": "RANTAU"
+                },
+                {
+                    "kode_bps": "1114040",
+                    "nama_bps": "KOTA KUALASIMPANG",
+                    "kode_dagri": "11.16.05",
+                    "nama_dagri": "KOTA KUALASINPANG"
+                },
+                {
+                    "kode_bps": "1114050",
+                    "nama_bps": "SERUWAY",
+                    "kode_dagri": "11.16.04",
+                    "nama_dagri": "SERUWAY"
+                },
+                {
+                    "kode_bps": "1114060",
+                    "nama_bps": "BENDAHARA",
+                    "kode_dagri": "11.16.02",
+                    "nama_dagri": "BENDAHARA"
+                },
+                {
+                    "kode_bps": "1114061",
+                    "nama_bps": "BANDA MULIA",
+                    "kode_dagri": "11.16.09",
+                    "nama_dagri": "BANDA MULIA"
+                },
+                {
+                    "kode_bps": "1114070",
+                    "nama_bps": "KARANG BARU",
+                    "kode_dagri": "11.16.03",
+                    "nama_dagri": "KARANG BARU"
+                },
+                {
+                    "kode_bps": "1114071",
+                    "nama_bps": "SEKERAK",
+                    "kode_dagri": "11.16.12",
+                    "nama_dagri": "SEKERAK"
+                },
+                {
+                    "kode_bps": "1114080",
+                    "nama_bps": "MANYAK PAYED",
+                    "kode_dagri": "11.16.01",
+                    "nama_dagri": "MANYAK PAYED"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1109",
+            "district_code_dagri": "11.07",
+            "sub_district": [
+                {
+                    "kode_bps": "1109010",
+                    "nama_bps": "GEUMPANG",
+                    "kode_dagri": "11.07.05",
+                    "nama_dagri": "GEUMPANG"
+                },
+                {
+                    "kode_bps": "1109011",
+                    "nama_bps": "MANE",
+                    "kode_dagri": "11.07.27",
+                    "nama_dagri": "MANE"
+                },
+                {
+                    "kode_bps": "1109070",
+                    "nama_bps": "GLUMPANG TIGA",
+                    "kode_dagri": "11.07.06",
+                    "nama_dagri": "GEULUMPANG TIGA"
+                },
+                {
+                    "kode_bps": "1109071",
+                    "nama_bps": "GLUMPANG BARO",
+                    "kode_dagri": "11.07.29",
+                    "nama_dagri": "GLUMPANG BARO"
+                },
+                {
+                    "kode_bps": "1109080",
+                    "nama_bps": "MUTIARA",
+                    "kode_dagri": "11.07.13",
+                    "nama_dagri": "MUTIARA"
+                },
+                {
+                    "kode_bps": "1109081",
+                    "nama_bps": "MUTIARA TIMUR",
+                    "kode_dagri": "11.07.24",
+                    "nama_dagri": "MUTIARA TIMUR"
+                },
+                {
+                    "kode_bps": "1109090",
+                    "nama_bps": "TIRO/TRUSEB",
+                    "kode_dagri": "11.07.21",
+                    "nama_dagri": "TIRO/TRUSEB"
+                },
+                {
+                    "kode_bps": "1109100",
+                    "nama_bps": "TANGSE",
+                    "kode_dagri": "11.07.19",
+                    "nama_dagri": "TANGSE"
+                },
+                {
+                    "kode_bps": "1109111",
+                    "nama_bps": "KEUMALA",
+                    "kode_dagri": "11.07.22",
+                    "nama_dagri": "KEUMALA"
+                },
+                {
+                    "kode_bps": "1109112",
+                    "nama_bps": "TITEUE",
+                    "kode_dagri": "11.07.31",
+                    "nama_dagri": "TITEUE"
+                },
+                {
+                    "kode_bps": "1109120",
+                    "nama_bps": "SAKTI",
+                    "kode_dagri": "11.07.17",
+                    "nama_dagri": "SAKTI"
+                },
+                {
+                    "kode_bps": "1109130",
+                    "nama_bps": "MILA",
+                    "kode_dagri": "11.07.11",
+                    "nama_dagri": "MILA"
+                },
+                {
+                    "kode_bps": "1109140",
+                    "nama_bps": "PADANG TIJI",
+                    "kode_dagri": "11.07.14",
+                    "nama_dagri": "PADANG TIJI"
+                },
+                {
+                    "kode_bps": "1109150",
+                    "nama_bps": "DELIMA",
+                    "kode_dagri": "11.07.04",
+                    "nama_dagri": "DELIMA"
+                },
+                {
+                    "kode_bps": "1109151",
+                    "nama_bps": "GRONG GRONG",
+                    "kode_dagri": "11.07.25",
+                    "nama_dagri": "GRONG-GRONG"
+                },
+                {
+                    "kode_bps": "1109160",
+                    "nama_bps": "INDRAJAYA",
+                    "kode_dagri": "11.07.07",
+                    "nama_dagri": "INDRA JAYA"
+                },
+                {
+                    "kode_bps": "1109170",
+                    "nama_bps": "PEUKAN BARO",
+                    "kode_dagri": "11.07.15",
+                    "nama_dagri": "PEUKAN BARO"
+                },
+                {
+                    "kode_bps": "1109180",
+                    "nama_bps": "KEMBANG TANJONG",
+                    "kode_dagri": "11.07.08",
+                    "nama_dagri": "KEMBANG TANJONG"
+                },
+                {
+                    "kode_bps": "1109190",
+                    "nama_bps": "SIMPANG TIGA",
+                    "kode_dagri": "11.07.18",
+                    "nama_dagri": "SIMPANG TIGA"
+                },
+                {
+                    "kode_bps": "1109200",
+                    "nama_bps": "KOTA SIGLI",
+                    "kode_dagri": "11.07.09",
+                    "nama_dagri": "KOTA SIGLI"
+                },
+                {
+                    "kode_bps": "1109210",
+                    "nama_bps": "PIDIE",
+                    "kode_dagri": "11.07.16",
+                    "nama_dagri": "PIDIE"
+                },
+                {
+                    "kode_bps": "1109220",
+                    "nama_bps": "BATEE",
+                    "kode_dagri": "11.07.03",
+                    "nama_dagri": "BATEE"
+                },
+                {
+                    "kode_bps": "1109230",
+                    "nama_bps": "MUARA TIGA",
+                    "kode_dagri": "11.07.12",
+                    "nama_dagri": "MUARA TIGA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1173",
+            "district_code_dagri": "11.74",
+            "sub_district": [
+                {
+                    "kode_bps": "1173010",
+                    "nama_bps": "LANGSA TIMUR",
+                    "kode_dagri": "11.74.01",
+                    "nama_dagri": "LANGSA TIMUR"
+                },
+                {
+                    "kode_bps": "1173011",
+                    "nama_bps": "LANGSA LAMA",
+                    "kode_dagri": "11.74.04",
+                    "nama_dagri": "LANGSA LAMA"
+                },
+                {
+                    "kode_bps": "1173020",
+                    "nama_bps": "LANGSA BARAT",
+                    "kode_dagri": "11.74.02",
+                    "nama_dagri": "LANGSA BARAT"
+                },
+                {
+                    "kode_bps": "1173021",
+                    "nama_bps": "LANGSA BARO",
+                    "kode_dagri": "11.74.05",
+                    "nama_dagri": "LANGSA BARO"
+                },
+                {
+                    "kode_bps": "1173030",
+                    "nama_bps": "LANGSA KOTA",
+                    "kode_dagri": "11.74.03",
+                    "nama_dagri": "LANGSA KOTA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1104",
+            "district_code_dagri": "11.02",
+            "sub_district": [
+                {
+                    "kode_bps": "1104010",
+                    "nama_bps": "LAWE ALAS",
+                    "kode_dagri": "11.02.01",
+                    "nama_dagri": "LAWE ALAS"
+                },
+                {
+                    "kode_bps": "1104011",
+                    "nama_bps": "BABUL RAHMAH",
+                    "kode_dagri": "11.02.11",
+                    "nama_dagri": "BABUL RAHMAH"
+                },
+                {
+                    "kode_bps": "1104012",
+                    "nama_bps": "TANOH ALAS",
+                    "kode_dagri": "11.02.15",
+                    "nama_dagri": "TANOH ALAS"
+                },
+                {
+                    "kode_bps": "1104020",
+                    "nama_bps": "LAWE SIGALA-GALA",
+                    "kode_dagri": "11.02.02",
+                    "nama_dagri": "LAWE SIGALA-GALA"
+                },
+                {
+                    "kode_bps": "1104021",
+                    "nama_bps": "BABUL MAKMUR",
+                    "kode_dagri": "11.02.06",
+                    "nama_dagri": "BABUL MAKMUR"
+                },
+                {
+                    "kode_bps": "1104022",
+                    "nama_bps": "SEMADAM",
+                    "kode_dagri": "11.02.10",
+                    "nama_dagri": "SEMADAM"
+                },
+                {
+                    "kode_bps": "1104023",
+                    "nama_bps": "LEUSER",
+                    "kode_dagri": "11.02.16",
+                    "nama_dagri": "LEUSER"
+                },
+                {
+                    "kode_bps": "1104030",
+                    "nama_bps": "BAMBEL",
+                    "kode_dagri": "11.02.03",
+                    "nama_dagri": "BAMBEL"
+                },
+                {
+                    "kode_bps": "1104031",
+                    "nama_bps": "BUKIT TUSAM",
+                    "kode_dagri": "11.02.09",
+                    "nama_dagri": "BUKIT TUSAM"
+                },
+                {
+                    "kode_bps": "1104032",
+                    "nama_bps": "LAWE SUMUR",
+                    "kode_dagri": "11.02.14",
+                    "nama_dagri": "LAWE SUMUR"
+                },
+                {
+                    "kode_bps": "1104040",
+                    "nama_bps": "BABUSSALAM",
+                    "kode_dagri": "11.02.04",
+                    "nama_dagri": "BABUSSALAM"
+                },
+                {
+                    "kode_bps": "1104041",
+                    "nama_bps": "LAWE BULAN",
+                    "kode_dagri": "11.02.08",
+                    "nama_dagri": "LAWE BULAN"
+                },
+                {
+                    "kode_bps": "1104050",
+                    "nama_bps": "BADAR",
+                    "kode_dagri": "11.02.05",
+                    "nama_dagri": "BADAR"
+                },
+                {
+                    "kode_bps": "1104051",
+                    "nama_bps": "DARUL HASANAH",
+                    "kode_dagri": "11.02.07",
+                    "nama_dagri": "DARUL HASANAH"
+                },
+                {
+                    "kode_bps": "1104052",
+                    "nama_bps": "KETAMBE",
+                    "kode_dagri": "11.02.12",
+                    "nama_dagri": "KETAMBE"
+                },
+                {
+                    "kode_bps": "1104053",
+                    "nama_bps": "DELENG POKHKISEN",
+                    "kode_dagri": "11.02.13",
+                    "nama_dagri": "DELENG POKHKISEN"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1111",
+            "district_code_dagri": "11.08",
+            "sub_district": [
+                {
+                    "kode_bps": "1111010",
+                    "nama_bps": "SAWANG",
+                    "kode_dagri": "11.08.15",
+                    "nama_dagri": "SAWANG"
+                },
+                {
+                    "kode_bps": "1111020",
+                    "nama_bps": "NISAM",
+                    "kode_dagri": "11.08.16",
+                    "nama_dagri": "NISAM"
+                },
+                {
+                    "kode_bps": "1111021",
+                    "nama_bps": "NISAM ANTARA",
+                    "kode_dagri": "11.08.27",
+                    "nama_dagri": "NISAM ANTARA"
+                },
+                {
+                    "kode_bps": "1111022",
+                    "nama_bps": "BANDA BARO",
+                    "kode_dagri": "11.08.26",
+                    "nama_dagri": "BANDA BARO"
+                },
+                {
+                    "kode_bps": "1111030",
+                    "nama_bps": "KUTA MAKMUR",
+                    "kode_dagri": "11.08.03",
+                    "nama_dagri": "KUTA MAKMUR"
+                },
+                {
+                    "kode_bps": "1111031",
+                    "nama_bps": "SIMPANG KERAMAT",
+                    "kode_dagri": "11.08.22",
+                    "nama_dagri": "SIMPANG KRAMAT"
+                },
+                {
+                    "kode_bps": "1111040",
+                    "nama_bps": "SYAMTALIRA BAYU",
+                    "kode_dagri": "11.08.11",
+                    "nama_dagri": "SYAMTALIRA BAYU"
+                },
+                {
+                    "kode_bps": "1111041",
+                    "nama_bps": "GEUREUDONG PASE",
+                    "kode_dagri": "11.08.25",
+                    "nama_dagri": "GEUREDONG PASE"
+                },
+                {
+                    "kode_bps": "1111050",
+                    "nama_bps": "MEURAH MULIA",
+                    "kode_dagri": "11.08.07",
+                    "nama_dagri": "MEURAH MULIA"
+                },
+                {
+                    "kode_bps": "1111060",
+                    "nama_bps": "MATANGKULI",
+                    "kode_dagri": "11.08.05",
+                    "nama_dagri": "MATANGKULI"
+                },
+                {
+                    "kode_bps": "1111061",
+                    "nama_bps": "PAYA BAKONG",
+                    "kode_dagri": "11.08.20",
+                    "nama_dagri": "PAYA BAKONG"
+                },
+                {
+                    "kode_bps": "1111062",
+                    "nama_bps": "PIRAK TIMU",
+                    "kode_dagri": "11.08.24",
+                    "nama_dagri": "PIRAK TIMUR"
+                },
+                {
+                    "kode_bps": "1111070",
+                    "nama_bps": "COT GIREK",
+                    "kode_dagri": "11.08.17",
+                    "nama_dagri": "COT GIREK"
+                },
+                {
+                    "kode_bps": "1111080",
+                    "nama_bps": "TANAH JAMBO AYE",
+                    "kode_dagri": "11.08.14",
+                    "nama_dagri": "T. JAMBO AYE"
+                },
+                {
+                    "kode_bps": "1111081",
+                    "nama_bps": "LANGKAHAN",
+                    "kode_dagri": "11.08.18",
+                    "nama_dagri": "LANGKAHAN"
+                },
+                {
+                    "kode_bps": "1111090",
+                    "nama_bps": "SEUNUDDON",
+                    "kode_dagri": "11.08.09",
+                    "nama_dagri": "SEUNUDDON"
+                },
+                {
+                    "kode_bps": "1111100",
+                    "nama_bps": "BAKTIYA",
+                    "kode_dagri": "11.08.01",
+                    "nama_dagri": "BAKTIYA"
+                },
+                {
+                    "kode_bps": "1111101",
+                    "nama_bps": "BAKTIYA BARAT",
+                    "kode_dagri": "11.08.19",
+                    "nama_dagri": "BAKTIYA BARAT"
+                },
+                {
+                    "kode_bps": "1111110",
+                    "nama_bps": "LHOKSUKON",
+                    "kode_dagri": "11.08.04",
+                    "nama_dagri": "LHOKSUKON"
+                },
+                {
+                    "kode_bps": "1111120",
+                    "nama_bps": "TANAH LUAS",
+                    "kode_dagri": "11.08.12",
+                    "nama_dagri": "TANAH LUAS"
+                },
+                {
+                    "kode_bps": "1111121",
+                    "nama_bps": "NIBONG",
+                    "kode_dagri": "11.08.21",
+                    "nama_dagri": "NIBONG"
+                },
+                {
+                    "kode_bps": "1111130",
+                    "nama_bps": "SAMUDERA",
+                    "kode_dagri": "11.08.08",
+                    "nama_dagri": "SAMUDERA"
+                },
+                {
+                    "kode_bps": "1111140",
+                    "nama_bps": "SYAMTALIRA ARON",
+                    "kode_dagri": "11.08.10",
+                    "nama_dagri": "SYAMTALIRA ARON"
+                },
+                {
+                    "kode_bps": "1111150",
+                    "nama_bps": "TANAH PASIR",
+                    "kode_dagri": "11.08.13",
+                    "nama_dagri": "TANAH PASIR"
+                },
+                {
+                    "kode_bps": "1111151",
+                    "nama_bps": "LAPANG",
+                    "kode_dagri": "11.08.23",
+                    "nama_dagri": "LAPANG"
+                },
+                {
+                    "kode_bps": "1111160",
+                    "nama_bps": "MUARA BATU",
+                    "kode_dagri": "11.08.06",
+                    "nama_dagri": "MUARA BATU"
+                },
+                {
+                    "kode_bps": "1111170",
+                    "nama_bps": "DEWANTARA",
+                    "kode_dagri": "11.08.02",
+                    "nama_dagri": "DEWANTARA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1105",
+            "district_code_dagri": "11.03",
+            "sub_district": [
+                {
+                    "kode_bps": "1105080",
+                    "nama_bps": "SERBA JADI",
+                    "kode_dagri": "11.03.05",
+                    "nama_dagri": "SERBAJADI"
+                },
+                {
+                    "kode_bps": "1105081",
+                    "nama_bps": "SIMPANG JERNIH",
+                    "kode_dagri": "11.03.20",
+                    "nama_dagri": "SIMPANG JERNIH"
+                },
+                {
+                    "kode_bps": "1105082",
+                    "nama_bps": "PEUNARON",
+                    "kode_dagri": "11.03.24",
+                    "nama_dagri": "PEUNARON"
+                },
+                {
+                    "kode_bps": "1105090",
+                    "nama_bps": "BIREM BAYEUN",
+                    "kode_dagri": "11.03.04",
+                    "nama_dagri": "BIREM BAYEUN"
+                },
+                {
+                    "kode_bps": "1105100",
+                    "nama_bps": "RANTAU SELAMAT",
+                    "kode_dagri": "11.03.08",
+                    "nama_dagri": "RANTAU SELAMAT"
+                },
+                {
+                    "kode_bps": "1105101",
+                    "nama_bps": "SUNGAI RAYA",
+                    "kode_dagri": "11.03.19",
+                    "nama_dagri": "SUNGAI RAYA"
+                },
+                {
+                    "kode_bps": "1105110",
+                    "nama_bps": "PEUREULAK",
+                    "kode_dagri": "11.03.07",
+                    "nama_dagri": "PEUREULAK"
+                },
+                {
+                    "kode_bps": "1105111",
+                    "nama_bps": "PEUREULAK TIMUR",
+                    "kode_dagri": "11.03.17",
+                    "nama_dagri": "PEUREULAK TIMUR"
+                },
+                {
+                    "kode_bps": "1105112",
+                    "nama_bps": "PEUREULAK BARAT",
+                    "kode_dagri": "11.03.18",
+                    "nama_dagri": "PEUREULAK BARAT"
+                },
+                {
+                    "kode_bps": "1105120",
+                    "nama_bps": "RANTO PEUREULAK",
+                    "kode_dagri": "11.03.10",
+                    "nama_dagri": "RANTAU PEUREULAK"
+                },
+                {
+                    "kode_bps": "1105130",
+                    "nama_bps": "IDI RAYEUK",
+                    "kode_dagri": "11.03.03",
+                    "nama_dagri": "IDI RAYEUK"
+                },
+                {
+                    "kode_bps": "1105131",
+                    "nama_bps": "PEUDAWA",
+                    "kode_dagri": "11.03.16",
+                    "nama_dagri": "PEUDAWA"
+                },
+                {
+                    "kode_bps": "1105132",
+                    "nama_bps": "BANDA ALAM",
+                    "kode_dagri": "11.03.15",
+                    "nama_dagri": "BANDA ALAM"
+                },
+                {
+                    "kode_bps": "1105133",
+                    "nama_bps": "IDI TUNONG",
+                    "kode_dagri": "11.03.14",
+                    "nama_dagri": "IDI TUNONG"
+                },
+                {
+                    "kode_bps": "1105134",
+                    "nama_bps": "DARUL IHSAN",
+                    "kode_dagri": "11.03.21",
+                    "nama_dagri": "DARUL IHSAN"
+                },
+                {
+                    "kode_bps": "1105135",
+                    "nama_bps": "IDI TIMUR",
+                    "kode_dagri": "11.03.23",
+                    "nama_dagri": "IDI TIMUR"
+                },
+                {
+                    "kode_bps": "1105140",
+                    "nama_bps": "DARUL AMAN",
+                    "kode_dagri": "11.03.01",
+                    "nama_dagri": "DARUL AMAN"
+                },
+                {
+                    "kode_bps": "1105150",
+                    "nama_bps": "NURUSSALAM",
+                    "kode_dagri": "11.03.06",
+                    "nama_dagri": "NURUSSALAM"
+                },
+                {
+                    "kode_bps": "1105151",
+                    "nama_bps": "DARUL FALAH",
+                    "kode_dagri": "11.03.22",
+                    "nama_dagri": "DARUL FALAH"
+                },
+                {
+                    "kode_bps": "1105160",
+                    "nama_bps": "JULOK",
+                    "kode_dagri": "11.03.02",
+                    "nama_dagri": "JULOK"
+                },
+                {
+                    "kode_bps": "1105161",
+                    "nama_bps": "INDRA MAKMUR",
+                    "kode_dagri": "11.03.13",
+                    "nama_dagri": "INDRA MAKMU"
+                },
+                {
+                    "kode_bps": "1105170",
+                    "nama_bps": "PANTE BIDARI",
+                    "kode_dagri": "11.03.11",
+                    "nama_dagri": "PANTE BIDARI"
+                },
+                {
+                    "kode_bps": "1105180",
+                    "nama_bps": "SIMPANG ULIM",
+                    "kode_dagri": "11.03.09",
+                    "nama_dagri": "SIMPANG ULIM"
+                },
+                {
+                    "kode_bps": "1105181",
+                    "nama_bps": "MADAT",
+                    "kode_dagri": "11.03.12",
+                    "nama_dagri": "MADAT"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1110",
+            "district_code_dagri": "11.11",
+            "sub_district": [
+                {
+                    "kode_bps": "1110010",
+                    "nama_bps": "SAMALANGA",
+                    "kode_dagri": "11.11.01",
+                    "nama_dagri": "SAMALANGA"
+                },
+                {
+                    "kode_bps": "1110011",
+                    "nama_bps": "SIMPANG MAMPLAM",
+                    "kode_dagri": "11.11.11",
+                    "nama_dagri": "SIMPANG MAMPLAM"
+                },
+                {
+                    "kode_bps": "1110020",
+                    "nama_bps": "PANDRAH",
+                    "kode_dagri": "11.11.08",
+                    "nama_dagri": "PANDRAH"
+                },
+                {
+                    "kode_bps": "1110030",
+                    "nama_bps": "JEUNIEB",
+                    "kode_dagri": "11.11.02",
+                    "nama_dagri": "JEUNIEB"
+                },
+                {
+                    "kode_bps": "1110031",
+                    "nama_bps": "PEULIMBANG",
+                    "kode_dagri": "11.11.12",
+                    "nama_dagri": "PEULIMBANG"
+                },
+                {
+                    "kode_bps": "1110040",
+                    "nama_bps": "PEUDADA",
+                    "kode_dagri": "11.11.03",
+                    "nama_dagri": "PEUDADA"
+                },
+                {
+                    "kode_bps": "1110050",
+                    "nama_bps": "JULI",
+                    "kode_dagri": "11.11.09",
+                    "nama_dagri": "JULI"
+                },
+                {
+                    "kode_bps": "1110060",
+                    "nama_bps": "JEUMPA",
+                    "kode_dagri": "11.11.04",
+                    "nama_dagri": "JEUMPA"
+                },
+                {
+                    "kode_bps": "1110061",
+                    "nama_bps": "KOTA JUANG",
+                    "kode_dagri": "11.11.13",
+                    "nama_dagri": "KOTA JUANG"
+                },
+                {
+                    "kode_bps": "1110062",
+                    "nama_bps": "KUALA",
+                    "kode_dagri": "11.11.14",
+                    "nama_dagri": "KUALA"
+                },
+                {
+                    "kode_bps": "1110070",
+                    "nama_bps": "JANGKA",
+                    "kode_dagri": "11.11.10",
+                    "nama_dagri": "JANGKA"
+                },
+                {
+                    "kode_bps": "1110080",
+                    "nama_bps": "PEUSANGAN",
+                    "kode_dagri": "11.11.05",
+                    "nama_dagri": "PEUSANGAN"
+                },
+                {
+                    "kode_bps": "1110081",
+                    "nama_bps": "PEUSANGAN SELATAN",
+                    "kode_dagri": "11.11.16",
+                    "nama_dagri": "PEUSANGAN SELATAN"
+                },
+                {
+                    "kode_bps": "1110082",
+                    "nama_bps": "PEUSANGAN SIBLAH KRUENG",
+                    "kode_dagri": "11.11.15",
+                    "nama_dagri": "PEUSANGAN SIBLAH"
+                },
+                {
+                    "kode_bps": "1110090",
+                    "nama_bps": "MAKMUR",
+                    "kode_dagri": "11.11.06",
+                    "nama_dagri": "MAKMUR"
+                },
+                {
+                    "kode_bps": "1110100",
+                    "nama_bps": "GANDA PURA",
+                    "kode_dagri": "11.11.07",
+                    "nama_dagri": "GANDAPURA"
+                },
+                {
+                    "kode_bps": "1110101",
+                    "nama_bps": "KUTA BLANG",
+                    "kode_dagri": "11.11.17",
+                    "nama_dagri": "KUTA BLANG"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1117",
+            "district_code_dagri": "11.17",
+            "sub_district": [
+                {
+                    "kode_bps": "1117010",
+                    "nama_bps": "TIMANG GAJAH",
+                    "kode_dagri": "11.17.07",
+                    "nama_dagri": "TIMANG GAJAH"
+                },
+                {
+                    "kode_bps": "1117011",
+                    "nama_bps": "GAJAH PUTIH",
+                    "kode_dagri": "11.17.10",
+                    "nama_dagri": "GAJAH PUTIH"
+                },
+                {
+                    "kode_bps": "1117020",
+                    "nama_bps": "PINTU RIME GAYO",
+                    "kode_dagri": "11.17.01",
+                    "nama_dagri": "PINTU RIME GAYO"
+                },
+                {
+                    "kode_bps": "1117030",
+                    "nama_bps": "BUKIT",
+                    "kode_dagri": "11.17.05",
+                    "nama_dagri": "BUKIT"
+                },
+                {
+                    "kode_bps": "1117040",
+                    "nama_bps": "WIH PESAM",
+                    "kode_dagri": "11.17.06",
+                    "nama_dagri": "WIH PESAM"
+                },
+                {
+                    "kode_bps": "1117050",
+                    "nama_bps": "BANDAR",
+                    "kode_dagri": "11.17.04",
+                    "nama_dagri": "BANDAR"
+                },
+                {
+                    "kode_bps": "1117051",
+                    "nama_bps": "BENER KELIPAH",
+                    "kode_dagri": "11.17.08",
+                    "nama_dagri": "BENER KELIPAH"
+                },
+                {
+                    "kode_bps": "1117060",
+                    "nama_bps": "SYIAH UTAMA",
+                    "kode_dagri": "11.17.03",
+                    "nama_dagri": "SYIAH UTAMA"
+                },
+                {
+                    "kode_bps": "1117061",
+                    "nama_bps": "MESIDAH",
+                    "kode_dagri": "11.17.09",
+                    "nama_dagri": "MESIDAH"
+                },
+                {
+                    "kode_bps": "1117070",
+                    "nama_bps": "PERMATA",
+                    "kode_dagri": "11.17.02",
+                    "nama_dagri": "PERMATA"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1175",
+            "district_code_dagri": "11.75",
+            "sub_district": [
+                {
+                    "kode_bps": "1175010",
+                    "nama_bps": "SIMPANG KIRI",
+                    "kode_dagri": "11.75.01",
+                    "nama_dagri": "SIMPANG KIRI"
+                },
+                {
+                    "kode_bps": "1175020",
+                    "nama_bps": "PENANGGALAN",
+                    "kode_dagri": "11.75.02",
+                    "nama_dagri": "PENANGGALAN"
+                },
+                {
+                    "kode_bps": "1175030",
+                    "nama_bps": "RUNDENG",
+                    "kode_dagri": "11.75.03",
+                    "nama_dagri": "RUNDENG"
+                },
+                {
+                    "kode_bps": "1175040",
+                    "nama_bps": "SULTAN DAULAT",
+                    "kode_dagri": "11.75.04",
+                    "nama_dagri": "SULTAN DAULAT"
+                },
+                {
+                    "kode_bps": "1175050",
+                    "nama_bps": "LONGKIB",
+                    "kode_dagri": "11.75.05",
+                    "nama_dagri": "LONGKIB"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1107",
+            "district_code_dagri": "11.05",
+            "sub_district": [
+                {
+                    "kode_bps": "1107050",
+                    "nama_bps": "JOHAN PAHLAWAN",
+                    "kode_dagri": "11.05.01",
+                    "nama_dagri": "JOHAN PAHWALAN"
+                },
+                {
+                    "kode_bps": "1107060",
+                    "nama_bps": "SAMATIGA",
+                    "kode_dagri": "11.05.05",
+                    "nama_dagri": "SAMATIGA"
+                },
+                {
+                    "kode_bps": "1107061",
+                    "nama_bps": "BUBON",
+                    "kode_dagri": "11.05.06",
+                    "nama_dagri": "BUBON"
+                },
+                {
+                    "kode_bps": "1107062",
+                    "nama_bps": "ARONGAN LAMBALEK",
+                    "kode_dagri": "11.05.07",
+                    "nama_dagri": "ARONGAN LAMBALEK"
+                },
+                {
+                    "kode_bps": "1107070",
+                    "nama_bps": "WOYLA",
+                    "kode_dagri": "11.05.04",
+                    "nama_dagri": "WOYLA"
+                },
+                {
+                    "kode_bps": "1107071",
+                    "nama_bps": "WOYLA BARAT",
+                    "kode_dagri": "11.05.10",
+                    "nama_dagri": "WOYLA BARAT"
+                },
+                {
+                    "kode_bps": "1107072",
+                    "nama_bps": "WOYLA TIMUR",
+                    "kode_dagri": "11.05.11",
+                    "nama_dagri": "WOYLA TIMUR"
+                },
+                {
+                    "kode_bps": "1107080",
+                    "nama_bps": "KAWAY XVI",
+                    "kode_dagri": "11.05.02",
+                    "nama_dagri": "KAWAY XVI"
+                },
+                {
+                    "kode_bps": "1107081",
+                    "nama_bps": "MEUREUBO",
+                    "kode_dagri": "11.05.09",
+                    "nama_dagri": "MEUREUBO"
+                },
+                {
+                    "kode_bps": "1107082",
+                    "nama_bps": "PANTE CEUREUMEN",
+                    "kode_dagri": "11.05.08",
+                    "nama_dagri": "PANTE CEUREUMEN"
+                },
+                {
+                    "kode_bps": "1107083",
+                    "nama_bps": "PANTON REU",
+                    "kode_dagri": "11.05.12",
+                    "nama_dagri": "PANTON REU"
+                },
+                {
+                    "kode_bps": "1107090",
+                    "nama_bps": "SUNGAI MAS",
+                    "kode_dagri": "11.05.03",
+                    "nama_dagri": "SUNGAI MAS"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1171",
+            "district_code_dagri": "11.71",
+            "sub_district": [
+                {
+                    "kode_bps": "1171010",
+                    "nama_bps": "MEURAXA",
+                    "kode_dagri": "11.71.03",
+                    "nama_dagri": "MEURAXA"
+                },
+                {
+                    "kode_bps": "1171011",
+                    "nama_bps": "JAYA BARU",
+                    "kode_dagri": "11.71.08",
+                    "nama_dagri": "JAYA BARU"
+                },
+                {
+                    "kode_bps": "1171012",
+                    "nama_bps": "BANDA RAYA",
+                    "kode_dagri": "11.71.07",
+                    "nama_dagri": "BANDA RAYA"
+                },
+                {
+                    "kode_bps": "1171020",
+                    "nama_bps": "BAITURRAHMAN",
+                    "kode_dagri": "11.71.01",
+                    "nama_dagri": "BAITURRAHMAN"
+                },
+                {
+                    "kode_bps": "1171021",
+                    "nama_bps": "LUENG BATA",
+                    "kode_dagri": "11.71.05",
+                    "nama_dagri": "LUENG BATA"
+                },
+                {
+                    "kode_bps": "1171030",
+                    "nama_bps": "KUTA ALAM",
+                    "kode_dagri": "11.71.02",
+                    "nama_dagri": "KUTA ALAM"
+                },
+                {
+                    "kode_bps": "1171031",
+                    "nama_bps": "KUTA RAJA",
+                    "kode_dagri": "11.71.06",
+                    "nama_dagri": "KUTA RAJA"
+                },
+                {
+                    "kode_bps": "1171040",
+                    "nama_bps": "SYIAH KUALA",
+                    "kode_dagri": "11.71.04",
+                    "nama_dagri": "SYIAH KUALA"
+                },
+                {
+                    "kode_bps": "1171041",
+                    "nama_bps": "ULEE KARENG",
+                    "kode_dagri": "11.71.09",
+                    "nama_dagri": "ULEE KARENG"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1115",
+            "district_code_dagri": "11.15",
+            "sub_district": [
+                {
+                    "kode_bps": "1115010",
+                    "nama_bps": "DARUL MAKMUR",
+                    "kode_dagri": "11.15.05",
+                    "nama_dagri": "DARUL MAKMUR"
+                },
+                {
+                    "kode_bps": "1115011",
+                    "nama_bps": "TRIPA MAKMUR",
+                    "kode_dagri": "11.15.09",
+                    "nama_dagri": "TRIPA MAKMUR"
+                },
+                {
+                    "kode_bps": "1115020",
+                    "nama_bps": "KUALA",
+                    "kode_dagri": "11.15.01",
+                    "nama_dagri": "KUALA"
+                },
+                {
+                    "kode_bps": "1115021",
+                    "nama_bps": "KUALA PESISIR",
+                    "kode_dagri": "11.15.07",
+                    "nama_dagri": "KUALA PESISIR"
+                },
+                {
+                    "kode_bps": "1115022",
+                    "nama_bps": "TADU RAYA",
+                    "kode_dagri": "11.15.08",
+                    "nama_dagri": "TADU RAYA"
+                },
+                {
+                    "kode_bps": "1115030",
+                    "nama_bps": "BEUTONG",
+                    "kode_dagri": "11.15.04",
+                    "nama_dagri": "BEUTONG"
+                },
+                {
+                    "kode_bps": "1115031",
+                    "nama_bps": "BEUTONG ATEUH BANGGALANG",
+                    "kode_dagri": "11.15.10",
+                    "nama_dagri": "BEUTONG ATEUH"
+                },
+                {
+                    "kode_bps": "1115040",
+                    "nama_bps": "SEUNAGAN",
+                    "kode_dagri": "11.15.02",
+                    "nama_dagri": "SEUNAGAN"
+                },
+                {
+                    "kode_bps": "1115041",
+                    "nama_bps": "SUKA MAKMUE",
+                    "kode_dagri": "11.15.06",
+                    "nama_dagri": "SUKA MAKMUE"
+                },
+                {
+                    "kode_bps": "1115050",
+                    "nama_bps": "SEUNAGAN TIMUR",
+                    "kode_dagri": "11.15.03",
+                    "nama_dagri": "SEUNAGAN TIMUR"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1174",
+            "district_code_dagri": "11.73",
+            "sub_district": [
+                {
+                    "kode_bps": "1174010",
+                    "nama_bps": "BLANG MANGAT",
+                    "kode_dagri": "11.73.03",
+                    "nama_dagri": "BLANG MANGAT"
+                },
+                {
+                    "kode_bps": "1174020",
+                    "nama_bps": "MUARA DUA",
+                    "kode_dagri": "11.73.01",
+                    "nama_dagri": "MUARA DUA"
+                },
+                {
+                    "kode_bps": "1174021",
+                    "nama_bps": "MUARA SATU",
+                    "kode_dagri": "11.73.04",
+                    "nama_dagri": "MUARA SATU"
+                },
+                {
+                    "kode_bps": "1174030",
+                    "nama_bps": "BANDA SAKTI",
+                    "kode_dagri": "11.73.02",
+                    "nama_dagri": "BANDA SAKTI"
+                }
+            ]
+        },
+        {
+            "district_code_bps": "1172",
+            "district_code_dagri": "11.72",
+            "sub_district": [
+                {
+                    "kode_bps": "1172010",
+                    "nama_bps": "SUKAJAYA",
+                    "kode_dagri": "11.72.02",
+                    "nama_dagri": "SUKAJAYA"
+                },
+                {
+                    "kode_bps": "1172020",
+                    "nama_bps": "SUKAKARYA",
+                    "kode_dagri": "11.72.01",
+                    "nama_dagri": "SUKAKARYA"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "total": 0,
+        "latestUpdate": 2020,
+        "baseReferenceAvailable": [
+            "BPS",
+            "KEMENDAGRI"
+        ],
+        "level": "SUB_DISTRICT"
+    }
+}
